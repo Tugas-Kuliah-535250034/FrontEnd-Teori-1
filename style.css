@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 5px 1px 5px 30px;
+    text-align: left;
+    background: #d1baba;
+}
+
+nav {
+    padding: 8px;
+    text-align: center;
+    background: #333333;
+}
+
+article {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 13px;
+    background: #ffffff;
+}
+
+.component {
+    padding: 6px 16px;
+    margin-inline: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    display: inline-block;
+    width: fit-content;
+    border: black solid 3px;
+    font-weight: bold;
+}
