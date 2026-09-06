@@ -1,26 +1,31 @@
+/* Bagian Body */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
+/* Bagian Header */
 header {
     padding: 5px 1px 5px 30px;
     text-align: left;
     background: #d1baba;
 }
 
+/* Bagian Navigation */
 nav {
     padding: 8px;
     text-align: center;
     background: #333333;
 }
 
+/* Bagian Article */
 article {
     padding: 30px;
     max-width: 900px;
     margin: auto;
 }
 
+/* Bagian Footer */
 footer {
     padding: 20px;
     text-align: center;
@@ -28,6 +33,7 @@ footer {
     background: #ffffff;
 }
 
+/* Tiap tombol pada navigation */
 .component {
     padding: 6px 16px;
     margin-inline: 20px;
